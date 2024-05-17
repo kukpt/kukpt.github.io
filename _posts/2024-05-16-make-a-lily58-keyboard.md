@@ -35,4 +35,22 @@ _第一套的一些元器件，第二套没拍照_
 ## 外壳
 除了仓库里的case，也有其他开发者开发的[外壳](https://github.com/BoardSodie/Lily58-Acrylic-Case)。我是在拼多多上的一家店下单制作的，很方便。
 
+## 构建环境
+[构建环境](https://docs.qmk.fm/#/newbs_getting_started)
+
+### Win
+下载[QMK MSYS](https://msys.qmk.fm/)构建环境
+
+### MacOS
+```shell
+brew install qmk/qmk/qmk
+```
+## Build
+[Build First](https://docs.qmk.fm/#/newbs_building_firmware)
+```shell
+qmk compile -kb <keyboard> -km <keymap>
+```
+### 文档
+[QMK Docs](https://docs.qmk.fm)
+
 {% include embed/bilibili.html id='BV1TX4y1j7v6' %}
