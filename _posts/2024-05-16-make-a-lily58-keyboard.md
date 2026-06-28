@@ -3,7 +3,7 @@ layout: post
 title: Lily58 键盘的制作
 date: 2024-05-16 10:56 +0800
 image:
-  path: /2024/05/16/9uL2kfGRJVeiWKr.jpg
+  path: /assets/img/posts/lily58-keyboard/cover.jpg
   alt: My Lily58 Keyboard
 ---
 我总共是做了两套键盘，第一套是没有热插拔的青轴，第二套是支持热插拔的红轴。
@@ -29,7 +29,7 @@ image:
 ## 零件
 ### PCB和元器件
 BOM在[构建指南](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md)里都有，基本上PCB打样和元器件我都是在 __立创商城__ 完成的。我没有选择SMT，不会弄，焊接的也不多。凯华的热插拔的底座是从凯华官方店铺买的。
-![第一套的一些元器件](https://s2.loli.net/2024/05/16/9Ga3MorAzs5Ht2e.jpg){: .w-75}
+![第一套的一些元器件](/assets/img/posts/lily58-keyboard/components.jpg){: .w-75}
 _第一套的一些元器件，第二套没拍照_
 
 ## 外壳
