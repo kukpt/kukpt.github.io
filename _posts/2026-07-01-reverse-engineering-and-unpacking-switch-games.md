@@ -6,7 +6,7 @@ image:
   path: /assets/img/posts/switch-game/0.png
   alt: game
 ---
-最近，我一直在逆向解包 Switch 游戏《朋友收集，梦想生活》。
+最近，我一直在逆向解包 Switch 游戏《Tomodachi Life 朋友收集梦想生活》。
 
 解包完成后，我发现真正的问题才刚刚开始。
 
@@ -15,7 +15,6 @@ image:
 以前，这种事情基本靠人工。
 
 打开一个文件，看几眼；发现没关系，再打开下一个。慢慢建立联系，再整理成表格。
-
 重复、枯燥，而且效率很低。
 
 这次我把这些解包后的文件全部交给了 AI Agent。
@@ -38,8 +37,7 @@ AI Agent 带来的价值，并不是帮我写几段解析代码，而是把原�
 
 现在，Agent 可以先完成 80% 的整理工作，而我只需要验证和修正。
 
-![3](/assets/img/posts/switch-game/3.PNG)
-![4](/assets/img/posts/switch-game/4.PNG)
+![5](/assets/img/posts/switch-game/5.PNG)
 对于解包、逆向、协议分析，甚至大型项目来说，这种能力远比代码生成更有价值。
 
 因为真正耗费时间的，往往不是写代码，而是理解数据。
