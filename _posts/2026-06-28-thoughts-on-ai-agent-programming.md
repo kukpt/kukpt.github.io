@@ -4,7 +4,7 @@ title: Thoughts on AI Agent Programming
 date: 2026-06-28 09:21 +0800
 image:
   path: /assets/img/posts/ai-agent/i1.png
-  alt: My Lily58 Keyboard
+  alt: AI
 ---
 # AI Agent 编程的一些思考
 
